@@ -98,7 +98,6 @@ Luego responde `confirmo` para ver la creación y el número de OC.
   lectura del proceso, decisiones, supuestos, cobertura, uso de IA y riesgos.
 - **`agent/prompt.md`** — comportamiento del agente.
 - **`src/knowledge/ordenes-compra.md`** — conocimiento del proceso.
-@"
 
 ## Link de prueba
 
@@ -106,4 +105,3 @@ https://reto-03-oc-sap-tm5z.onrender.com
 
 Nota: instancia en plan gratuito de Render. La primera peticion tras un periodo
 de inactividad puede tardar hasta 50 segundos mientras el servicio despierta.
-"@ | Add-Content -Path README.md -Encoding utf8
